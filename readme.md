@@ -1,4 +1,4 @@
-Hai This a Repo for basics Introduction to Python Language 
+This a Repo for basics Introduction to Python Language 
 
 Contents 
 01. Python Introduction
